@@ -1,3 +1,5 @@
-node_modules/
+container/node_modules/
+products/node_modules/
 .idea
-dist
+container/dist/
+products/dist/
